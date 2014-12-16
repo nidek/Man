@@ -3,4 +3,5 @@ Traing
 
 Testing..
 and testing adding change.
-Change the name of the repository to.. training.
+ 
+ 16/12-14: Change the name of the repository to.. training.
